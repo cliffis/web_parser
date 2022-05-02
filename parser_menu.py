@@ -3,6 +3,8 @@
 # Script for parsing the menu from the restaurant website(https://www.teletal.hu/etlap/19).
 # The script searches for all offered dishes containing a component named "csirkemell" (chicken breast),
 # and then outputs the result of the cheapest dish for each day of the week to a file.
+# Ps: For the script to work correctly, you need to put the geckodriver.exe for Firefox Selenium
+# next to the script.
 #######################################################################################################
 # Sample output:
 #  Day: Péntek
