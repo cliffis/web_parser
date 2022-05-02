@@ -1,0 +1,25 @@
+Dishes with the lowest price:
+Day: Hétfő
+Date: 05.09
+Name: Paradicsomos káposzta, édesítőszerekkel, natúr csirkemell
+Price: 1335 Ft
+
+Day: Kedd
+Date: 05.10
+Name: Lakodalmas Újházy tyúkhúsleves gazdagon (csirkemell, csirkeszárny, csigatészta, vegyes zöldségek)
+Price: 810 Ft
+
+Day: Szerda
+Date: 05.11
+Name: Magyaros, zsenge vajbabfőzelék, roston sült csirkemell
+Price: 1235 Ft
+
+Day: Csütörtök
+Date: 05.12
+Name: Tárkonyos, tejszínes húsgaluskaleves (csirkemellből)
+Price: 775 Ft
+
+Day: Péntek
+Date: 05.13
+Name: Majonézes burgonya, natúr csirkemell csíkokkal
+Price: 620 Ft
